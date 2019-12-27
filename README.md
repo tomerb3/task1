@@ -18,7 +18,7 @@ Tasks:
 
   start Nginx web server with index.html
 
-  when finished open chrome or other browser with url: http://<host-ip>:8882
+  when finished open chrome or other browser with url: http://hostip:8882
 
   you can look at screenshots.doc file
 
