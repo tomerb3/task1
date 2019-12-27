@@ -18,7 +18,9 @@ Tasks:
 
   start Nginx web server with index.html
 
-  when finished open chrome or other browser with url: http://hostip:8882
+  when finished open chrome or other browser with this url: http://localhost:8882
+  
+  if your host is not local write the ip instead of localhost
 
   you can look at screenshots.doc file
 
